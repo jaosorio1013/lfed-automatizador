@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40898645-a3b8-466c-bda0-5dae2b95c6d9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/autometizaciones-lfed.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paginador_full.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/paginador_planimetria.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/planimetria-inicial.pdf" afterDir="false" />
+    <list default="true" id="40898645-a3b8-466c-bda0-5dae2b95c6d9" name="Changes" comment="Finalizado paginador">
+      <change afterPath="$PROJECT_DIR$/planimetria_paginada/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/planimetria_paginada/planimetria-inicial.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +69,10 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finalizado paginador" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado paginador" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/autometizaciones_lfed$paginador_planimetria.coverage" NAME="paginador_planimetria Coverage Results" MODIFIED="1734132575365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
